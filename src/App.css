@@ -1,7 +1,21 @@
 .App {
+  background-color: #282c34;
   text-align: center;
+display: grid;
+gap: 1rem;
+width: 50%;
+margin:3rem auto;
+padding: 5%;
+border-radius: 2rem;
 }
 
+h1{
+  color:aquamarine;
+}
+
+/* .app input, .app Button{
+  width: 50%;
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
